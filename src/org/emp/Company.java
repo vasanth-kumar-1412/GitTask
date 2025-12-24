@@ -6,6 +6,11 @@ public class Company extends Employee {
 	public void empId() {
 		// TODO Auto-generated method stub
 		System.out.println("Employee Id is 14");
+		System.out.println("Employee Id is 15");
+		System.out.println("Employee Id is 16");
+		System.out.println("Employee Id is 17");
+		System.out.println("Employee Id is 18");
+		
 		
 	}
 	
@@ -13,6 +18,7 @@ public class Company extends Employee {
 	public void empName(String name) {
 		// TODO Auto-generated method stub
 		super.empName(name);
+		
 	}
 	
 
