@@ -6,6 +6,9 @@ public class Company extends Employee {
 	public void empId() {
 		// TODO Auto-generated method stub
 		System.out.println("Employee Id is 14");
+		System.out.println("Employee Id is 15");
+		System.out.println("Employee Id is 16");
+		System.out.println("Employee Id is 17");
 		
 	}
 	
